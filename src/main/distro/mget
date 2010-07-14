@@ -1,0 +1,6 @@
+JAR="mget-*-all.jar"
+BASEDIR=`dirname $0`
+CMD="java -jar $BASEDIR/$JAR $*"
+
+echo "running command: $CMD"
+$CMD
