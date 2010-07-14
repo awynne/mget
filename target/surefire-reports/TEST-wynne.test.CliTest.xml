@@ -22,7 +22,7 @@
     <property name="basedir" value="/Users/wynne/dev/workspaces/main/mget"/>
     <property name="java.endorsed.dirs" value="/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/endorsed"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="surefire.real.class.path" value="/var/folders/H6/H60XD3EkFlGGlkx5s6jpDk+++TI/-Tmp-/surefirebooter7995610367932159449.jar"/>
+    <property name="surefire.real.class.path" value="/var/folders/H6/H60XD3EkFlGGlkx5s6jpDk+++TI/-Tmp-/surefirebooter3439173168421870537.jar"/>
     <property name="java.io.tmpdir" value="/var/folders/H6/H60XD3EkFlGGlkx5s6jpDk+++TI/-Tmp-/"/>
     <property name="line.separator" value="
 "/>
